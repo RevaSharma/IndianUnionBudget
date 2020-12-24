@@ -4,10 +4,10 @@ Indian Union Budget- Data Viz. App
 
 Starting out as a novice in the data visualization field, I have create a data viz. application based on the Indian Union Budget of India. The Union Budget of a year is a statement of the estimated receipts and expenditure of the government for that particular fiscal year (1st April to 31st March). This is a beginner's data visualization that has been created in Python. I have made use of the following python libraries and packages:
 
-1.pandas
-2.dash,dash_core_components,dash_html_components 
-3.plotly express,plotly.graph_objects,plotly.io
-4.dash_auth
+* pandas
+* dash,dash_core_components,dash_html_components 
+* plotly express,plotly.graph_objects,plotly.io
+* dash_auth
 
 Through this data visualization I have tried to explain the Indian Union Budget through a couple of plots and figures- namely a line chart and a pie chart. 
 
